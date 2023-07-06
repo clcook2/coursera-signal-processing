@@ -4,4 +4,4 @@ a = np.array([0, 1, 2, 3, 4, 5])
 
 b = a[::-1]
 
-print(b)
+print("Give me a:" , a , "Give me b:", b)
